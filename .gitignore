@@ -1,3 +1,5 @@
 # All compiled Python modules
 *.pyc
 
+doc/DevelopersGuide/CCPP_VARIABLES_FV3.tex
+src/ccpp_types.xml
